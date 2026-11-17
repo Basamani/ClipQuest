@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+data/uploads/
+uploads_backup/
+*.db
+
+uploads_backup/
+/data/uploads_backup
+app_backup.py

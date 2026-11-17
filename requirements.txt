@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+faster-whisper
+sentence-transformers
+numpy
+scikit-learn
+opencv-python-headless
+Pillow
+pypdf
+youtube-transcript-api
+yt-dlp
+imageio-ffmpeg
